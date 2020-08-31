@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <declare-styleable name="CarouselRecyclerView">
+    <attr name="spreadFactor" format="float" />
+    <attr name="scaleFactor" format="float" />
+    <attr name="scaleOffset" format="float" />
+    <attr name="activityColor" format="color|reference" />
+    <attr name="inactiveColorColor" format="color|reference" />
+    <attr name="referenced_ids" format="string" />
+  </declare-styleable>
+</resources>

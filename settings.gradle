@@ -1,0 +1,3 @@
+include ':carousel'
+include ':app'
+rootProject.name = "Carousel"
